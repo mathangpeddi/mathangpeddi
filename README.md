@@ -5,7 +5,7 @@
   Mathang Peddi 
 </h1>
 <p>
-  Welcome to my GitHub! I'm Mathang Peddi, a Machine Learning Enthusiast blending the worlds of Software Engineering and Machine Learning, and I'm thrilled to invite you to explore my journey in the enchanting world of technology right here on GitHub! 
+  Welcome to my GitHub! I'm Mathang Peddi, an Aspiring Software Engineer blending the worlds of Software Engineering and Machine Learning, and I'm thrilled to invite you to explore my journey in the enchanting world of technology right here on GitHub! 
 </p>
 
 
@@ -45,7 +45,7 @@ With a strong foundation in both software engineering and data science, I have c
 </p>
 
 ## 🚀 Chapter 5: Epilogue: The Future Awaits
-As I continue my journey, I'm on the lookout for exciting roles as a Data Scientist/Data Analyst/Data Engineer. If you're on a quest to build powerful data-driven spells, collaborate on enchanting projects, or just share your own tech tales, I'm all ears! Reach out, and let's make the magic happen. Happy coding, and may your code be ever bug-free! ✨
+As I continue my journey, I'm on the lookout for exciting roles as a Software Developer/Data Scientist/Data Analyst. If you're on a quest to build powerful data-driven spells, collaborate on enchanting projects, or just share your own tech tales, I'm all ears! Reach out, and let's make the magic happen. Happy coding, and may your code be ever bug-free! ✨
 
 ## SKILL SETS:
 
