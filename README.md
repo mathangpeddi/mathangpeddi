@@ -8,6 +8,18 @@
   Welcome to my GitHub! I'm Mathang Peddi, an Aspiring Software Engineer blending the worlds of Software Engineering and Machine Learning, and I'm thrilled to invite you to explore my journey in the enchanting world of technology right here on GitHub! 
 </p>
 
+<p>
+  This is my personal portfolio website <a href="https://mathangpeddi.netlify.app/" target="_blank">mathangpeddi.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
+
+<p align="center">
+  <a href="https://app.netlify.com/sites/ritesh-manchikanti/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
+
+![demo](https://github.com/mathangpeddi/mathangpeddi-portfolio/blob/master/src/images/portfolio-homepage.png)
+
 
 ## 🎓 From Foundations to Frontiers: My Engineering Chapter
 
