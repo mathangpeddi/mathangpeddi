@@ -3,9 +3,9 @@
 <h1 align="center">Mathang Peddi</h1>
 
 ## 👨‍💻 About Me
-
-- 🎓 MS in Computer Science @ Georgia State University (GPA: 4.0)  
-- 💼 Software Engineer @ iTradeNetwork | Ex-Home Depot, Juniper, Citrix  
+  
+- 💼 Software Engineer @ iTradeNetwork | Ex-Home Depot, Juniper, Citrix
+- 🎓 MS in Computer Science @ Georgia State University (GPA: 4.0)
 - ⚡ Experience in distributed systems, microservices, and AI/LLM applications  
 - 🚀 Passionate about building scalable systems and solving real-world problems through clean and efficient engineering
 
